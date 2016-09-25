@@ -17,6 +17,8 @@ import scala.io.Source
 
 object Compiler {
 
+
+
   // currentToken variable
   var currentToken : String = ""
 
